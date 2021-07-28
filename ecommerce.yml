@@ -4,3 +4,6 @@ token:
 
 gateway:
   ip: 192.168.123.107
+  
+greeting:
+  msg: this is ecommerce yml file from config service
